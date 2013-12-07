@@ -1,0 +1,19 @@
+w222_x_api_google_checkout: payments using google checkout
+==========================================================
+
+Payments using Google Checkout
+
+Reference
+=========
+
+Google Checkout
+https://developers.google.com/checkout
+
+Integrating Chekcout via the API
+https://support.google.com/checkout/sell/?hl=en&rd=1#topic=2445412
+
+HTML API Tutorials
+https://support.google.com/checkout/sell/topic/2450429?hl=en&ref_topic=2445412
+
+Using and enabling the HTML API
+https://support.google.com/checkout/sell/answer/74284?hl=en&ref_topic=2450429
